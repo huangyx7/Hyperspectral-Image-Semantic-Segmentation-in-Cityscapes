@@ -1,4 +1,4 @@
-# Hyperspectral-Image-Semantic-Segmentation-in-Cityscapes
+# Hyperspectral Image Semantic Segmentation in Cityscapes
 
 ## Introduction
 This is the code of [hyperspectral image semantic segmentation in cityscapes]. We introduce a semi-supervised HSI semantic segmentation network, which utilizes spectral information to improve the coarse labels to a finer degree. The framework is shown in the figure below.
